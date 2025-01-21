@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![Expertise Visual](https://yourtool.com/user/username/visual.png)](https://yourtool.com/user/username)
 
 <!--
 **nreddystudent/nreddystudent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
