@@ -2,8 +2,7 @@
 ![Expertise Visual](https://cdn.prod.website-files.com/635675778f469cfc63a83a3b/66e43503d7645cd47304fb49_Screenshot%20from%202024-09-13%2014-48-27.png)]
 (https://app.knowledgemarker.com/profile/57fafa7e-b029-4f7d-907f-35ce25991c09)
 
-[<img src="[path/to/image.png](https://cdn.prod.website-files.com/635675778f469cfc63a83a3b/66e43503d7645cd47304fb49_Screenshot%20from%202024-09-13%2014-48-27.png)">]([https://link-to-your-URL/](https://app.knowledgemarker.com/profile/57fafa7e-b029-4f7d-907f-35ce25991c09))
-
+[<img src="path/to/image.png">](https://link-to-your-URL/)
 
 <!--
 **nreddystudent/nreddystudent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
